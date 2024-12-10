@@ -1,0 +1,20 @@
+section{
+    text-align: center;
+}
+/* regole di debug  */
+
+[class^='container'] {
+    border: 1px dashed black;
+    background-color: rgb(93, 198, 233);
+    min-height:  1600px;
+}
+
+[class^='row'] {
+    border: 1px dashed red;
+}
+
+[class^='col'] {
+    height: 120px;
+    background-color: #c8eb3b;
+    border: 1px solid #0abf0a;
+}
