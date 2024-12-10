@@ -4,3 +4,9 @@ section{
     margin: 25px;
 }
 
+p{
+    color: white;
+}
+.p-black {
+    color: black;
+}
